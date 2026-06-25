@@ -1,0 +1,2 @@
+El juego consiste en intentar hacer una recreación lo más fiel posible a Geometry Dash, creando todos los modelos y texturas necesarios. Al usar modelos 3D especialmente para los bordes blancos se ha jugado mucho con la perspectiva y todo ha sido desarrollado teniendo en cuenta el ángulo de la cámara.
+Hay recursos que sí han sido extraídos directamente del juego original: efectos de sonido, canciones, y sprites de la interfaz (botones, marcos, iconos...)
